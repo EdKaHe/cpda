@@ -1,0 +1,50 @@
+{
+    "dipole__shape": "disk",
+    "dipole__material": "Au",
+    "dipole__dim_x": 0.05,
+    "dipole__dim_y": 0.05,
+    "dipole__dim_z": 0.03,
+    "simulation__wl_1": 0.4,
+    "simulation__wl_2": 0.8,
+    "simulation__wl_n": 201,
+    "simulation__px_x": 64,
+    "simulation__px_y": 64,
+    "simulation__phi": 0,
+    "simulation__theta": 0,
+    "simulation__na": 1,
+    "simulation__eps": 2.25,
+    "simulation__mu": 1,
+    "simulation__delta_fourier": 1,
+    "simulation__delta_image": 1,
+    "disorder__p_x": 0.1,
+    "disorder__p_y": 0.5,
+    "disorder__ds_p": 0,
+    "disorder__cl_p": 0,
+    "disorder__seed_p": 0,
+    "disorder__ds_r": 0,
+    "disorder__cl_r": 0,
+    "disorder__seed_r": 0,
+    "disorder__ds_d": 0,
+    "disorder__cl_d": 0,
+    "disorder__seed_d": 0,
+    "disorder__x": [
+        -0.05,
+        0.05
+    ],
+    "disorder__y": [
+        0.0,
+        0.0
+    ],
+    "disorder__z": [
+        0.0,
+        0.0
+    ],
+    "disorder__phi": [
+        0.0,
+        0.0
+    ],
+    "disorder__ds": [
+        0.0,
+        0.0
+    ]
+}
